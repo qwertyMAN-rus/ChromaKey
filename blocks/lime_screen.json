@@ -1,0 +1,6 @@
+{
+    "texture": "lime_screen",
+    "shadeless": true,
+    "light-passing": true,
+    "sky-light-passing": true
+}

@@ -1,0 +1,21 @@
+{
+  "blocks": [
+    "red_screen",
+    "lime_screen",
+    "green_screen",
+    "mint_screen",
+    "orange_screen",
+    "yellow_screen",
+    "cyan_screen",
+    "azure_screen",
+    "blue_screen",
+    "pink_screen",
+    "magenta_screen",
+    "purple_screen",
+    "black_screen",
+    "grey_screen",
+    "white_screen"
+  ],
+  "items": [],
+  "entities": []
+}

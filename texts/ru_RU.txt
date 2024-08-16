@@ -1,0 +1,16 @@
+# Блоки
+red screen=красный экран
+lime screen=лаймовый экран
+green screen=зелёный экран
+mint screen=мятная сказка
+orange screen=оранжевый экран
+yellow screen=жёлтый экран
+cyan screen=циановый экран
+azure screen=лазурный экран
+blue screen=синий экран
+pink screen=розовый экран
+magenta screen=малиновый экран
+purple screen=фиолетовый экран
+black screen=чёрный экран
+grey screen=серый экран
+white screen=белый экран
